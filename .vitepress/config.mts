@@ -24,5 +24,5 @@ export default defineConfig({
 
     socialLinks: [{ icon: 'github', link: 'https://github.com/git-calendar' }],
   },
-  srcDir: '.',
+  base: process.env.GITHUB_PAGES == 'true' ? '/documentation/' : '/',
 });
