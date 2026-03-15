@@ -1,6 +1,6 @@
 # Introduction
 ## The [Core](https://github.com/git-calendar/core) - Write once, run everywhere
-The Core is the central component of the git-calendar project.
+The Core is the central component of the Git Calendar project.
 By keeping all the calendar logic in a [Core](https://github.com/git-calendar/core) and using Git as a decentralized backend, you ensure that every version of the app (Web, Android, and iOS) behaves exactly the same way.
 
 <picture>
