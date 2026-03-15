@@ -19,8 +19,8 @@ features:
   - title: Open Source
     details: The shared Core as well as the clients are all open source. Contributions are welcome.
     icon:
-      dark: /assets/github-white.svg
-      light: /assets/github-black.svg
+      dark: /github-white.svg
+      light: /github-black.svg
       width: 40
     link: https://github.com/git-calendar
   - title: Decentralized
