@@ -8,7 +8,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Architecture', link: '/deep-dive' },
+      { text: 'Architecture', link: '/architecture' },
     ],
 
     sidebar: [
@@ -18,7 +18,7 @@ export default defineConfig({
       },
       {
         text: 'Architecture',
-        link: '/deep-dive',
+        link: '/architecture',
       },
     ],
 

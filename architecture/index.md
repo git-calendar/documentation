@@ -1,5 +1,7 @@
-# Introduction
-## The [Core](https://github.com/git-calendar/core) - Write once, run everywhere
+# Architecture
+
+## Introduction
+### The [Core](https://github.com/git-calendar/core) - Write once, run everywhere
 The Core is the central component of the Git Calendar project.
 By keeping all the calendar logic in a Core and using Git as a decentralized backend, you ensure that every version of the app (Web, Android, and iOS) behaves exactly the same way.
 
@@ -8,5 +10,5 @@ By keeping all the calendar logic in a Core and using Git as a decentralized bac
     <img src="/assets/cross-platform-dark.svg" class="vp-dark" alt="cross-platform diagram">
 </picture>
 
-### Why Go?
+#### Why Go?
 While Rust or Zig might have been technically better suited for Core, we ultimately chose Go due to team familiarity and its Git implementation [go-git](https://github.com/go-git/go-git), which is exceptionally mature project and Git Calendar would not be possible without it.
