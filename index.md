@@ -6,7 +6,9 @@ hero:
   name: "Git Calendar"
   text: A private Git-backed calendar.
   tagline: Own your data!
-  image: TODO
+  image:
+    src: /favicon.svg
+    alt: Git Calendar Logo
   actions:
     - theme: brand
       text: Get started
