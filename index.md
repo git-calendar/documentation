@@ -15,7 +15,7 @@ hero:
       link: /getting-started
     - theme: alt
       text: Deep dive
-      link: /architecture
+      link: /introduction
 
 features:
   - title: Open Source
