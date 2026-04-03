@@ -4,7 +4,7 @@ If you've ever wanted to manage your schedule with a calendar app, you’ve prob
 **Git Calendar** changes that. Built on [Git](https://git-scm.com), it gives you full control over where your data lives. Host it on your own server or with any Git provider such as GitHub, GitLab, or Codeberg.
 
 ## Why Git?
-Because Git is cool. While its main feature is versioning, it also has other features/advantages that are great for using is as a calendar backend.
+Because Git is cool. While its biggest feature is versioning, it also has other features/advantages that are great for using it is as a calendar backend.
 - **Efficient Delta Synchronization**\
   One of the biggest advantages of the [CalDAV](https://en.wikipedia.org/wiki/CalDAV) protocol (the industry standard for calendars) is that it only downloads changes, not the whole calendar every time. Guess what? Git does that too.
 - **Offline-First**\
