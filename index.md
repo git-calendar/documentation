@@ -28,7 +28,15 @@ features:
     
   - title: Decentralized
     details: Because the calendar is built on top of Git, users are free to choose any host for their repository, allowing them to use the platform they trust.
+    icon:
+      dark: /decentralized-white.svg
+      light: /decentralized-black.svg
+      width: 40
     
-  - title: (not yet) E2E Encrypted
+  - title: E2E Encrypted
     details: Data stored in Git can also be end-to-end encrypted, enabling the use of hosts you do not control while still keeping the data private and secure.
+    icon:
+      dark: /encrypted-white.svg
+      light: /encrypted-black.svg
+      width: 40
 ---
