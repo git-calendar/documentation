@@ -1,5 +1,5 @@
 # Getting started
-Try it now with the [Web Client](https://git-calendar.github.io/web-client).
+Try it now with the [Web Client](https://git-calendar.firu.dev).
 
 > [!IMPORTANT]
 > It's under heavy development. Some things might not work yet.
